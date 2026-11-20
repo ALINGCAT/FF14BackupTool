@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe.config
+TestResults/
+tools/SmokeTest/bin/
+tools/SmokeTest/obj/
